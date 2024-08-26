@@ -1,15 +1,11 @@
 ## Welcome to GitHub Pages
 
-## What's up
-# I don't know what to put here
+# Ryan's First CS193 Homework
 
-```markdown
-
-  This is a test
-
-```
-
-**okay goodbye**
+_My favorite things about CS193:_
+- I am learning to be more fluent in Github and other programs
+- Teaches me to collaborate with others more easily
+- Doesn't have any tests :)
 
 
 ## Class Info:
